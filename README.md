@@ -1,1 +1,3 @@
-# react-portfolio
+React Portfolio
+
+My personal portfolio using react
